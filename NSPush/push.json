@@ -1,0 +1,29 @@
+{ "push": [ {
+  "gcm.message_id": 1569961784357512,
+  "aps": {
+    "alert": {
+      "body": "Se le solicita un pago."
+    }
+  },
+  "data": {
+    "payreq": {
+      "infoCif": {
+        "s": 1569961784241,
+        "mc": "fnTr+WYa0aclAKoKHs4UlFhkbYOcFdfkPdsNvhK0XEnlSKaCHbn+mpPCOEYDsIK4CWyOfVLKKI\/2OGCD2XLZGgKLIFnhxwwjNK\/r0zppoCU6gFYtYWnJD0nKwVEDoEnRJwwt5T68YnFn9AeL1th6wXHysDYoQqVux8srEQWem4B9jahMj2r8tfOETnWFCjx+044KPD9gJ66YvMavHer+Ng4M6+U2Eo4KjinjirysExFYXHZlievHBsKtkbBxnL8rwhEquyf5iyZxX7ERlPO3lXUZNvLZ5GM\/wy4ReZQ1\/1Vt1IU8gOibu5yjjQQcA4nTMZtA3FPIVwHOdPzMCdySyg==",
+        "id": "27417bb66327417bb663"
+      }
+    },
+    "title": "CODI",
+    "body": "Se le solicita un pago."
+  },
+  "google.c.a.e": 1,
+  "gcm.notification.payreq": {
+    "infoCif": {
+      "s": 1569961784241,
+      "mc": "fnTr+WYa0aclAKoKHs4UlFhkbYOcFdfkPdsNvhK0XEnlSKaCHbn+mpPCOEYDsIK4CWyOfVLKKI\/2OGCD2XLZGgKLIFnhxwwjNK\/r0zppoCU6gFYtYWnJD0nKwVEDoEnRJwwt5T68YnFn9AeL1th6wXHysDYoQqVux8srEQWem4B9jahMj2r8tfOETnWFCjx+044KPD9gJ66YvMavHer+Ng4M6+U2Eo4KjinjirysExFYXHZlievHBsKtkbBxnL8rwhEquyf5iyZxX7ERlPO3lXUZNvLZ5GM\/wy4ReZQ1\/1Vt1IU8gOibu5yjjQQcA4nTMZtA3FPIVwHOdPzMCdySyg==",
+      "id": "27417bb66327417bb663"
+    }
+  }
+  }
+]
+}
